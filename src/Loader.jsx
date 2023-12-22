@@ -4,7 +4,7 @@ const Loader = () => {
     return (
         <>
             <div style={{ display: "flex", alignItems: 'center', justifyContent: "center", marginTop: "25%" }}>
-                <span class="loader"></span>
+                <span className="loader"></span>
             </div>
         </>
     )
